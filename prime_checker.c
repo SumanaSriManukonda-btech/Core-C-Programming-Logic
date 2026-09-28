@@ -30,4 +30,3 @@ printf("%d is not a Prime Number.\n", num);
 }
 return 0;
 }
-}
